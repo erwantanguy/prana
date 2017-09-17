@@ -1,0 +1,7 @@
+body#tinymce.wp-editor .none{
+	border: 1px solid red;
+}
+body#tinymce.wp-editor .none:before{
+	content: "Zone pour le texte anglais";
+	display: block;
+}
